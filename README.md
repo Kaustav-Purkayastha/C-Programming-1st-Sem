@@ -96,11 +96,7 @@
 
 #### Q10) &ensp; Write a C program to perform the following operations on strings: 
 #### &ensp; (i) String Concatenation
-- ######  [See the Solution](https://github.com/Kaustav-Purkayastha/C-Programming-1st-Sem/blob/main/Solutions/Q-10/stringoperations.c) ✅
-- ######  [See the Output](https://github.com/Kaustav-Purkayastha/C-Programming-1st-Sem/blob/main/Solutions/Q-10/stringoperations1.jpg) ✅
 #### &ensp; (ii) Compare two strings
-- ######  [See the Solution](https://github.com/Kaustav-Purkayastha/C-Programming-1st-Sem/blob/main/Solutions/Q-10/stringoperations.c) ✅
-- ######  [See the Output](https://github.com/Kaustav-Purkayastha/C-Programming-1st-Sem/blob/main/Solutions/Q-10/stringoperations1.jpg) ✅
 #### &ensp; (iii) Calculate the length of the strings.
 - ######  [See the Solution](https://github.com/Kaustav-Purkayastha/C-Programming-1st-Sem/blob/main/Solutions/Q-10/stringoperations.c) ✅
 - ######  [See the Output](https://github.com/Kaustav-Purkayastha/C-Programming-1st-Sem/blob/main/Solutions/Q-10/stringoperations1.jpg) ✅
@@ -124,10 +120,10 @@
 - Confusions regarding any solution provided? <br/>
 - Want to discuss something regarding above topics?<br/>
 - Want to connect with other students?
-</h4><br/>
+</h4>
 
 - ### <img width="18px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="join"> JOIN HERE !!
-&ensp; &ensp; &ensp; <a href="https://discord.gg/kEUXUv4W9f">
+&ensp; &ensp; &ensp; <a href="https://discord.gg/B6yCkhuBqw">
 <img width="150px" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-official.svg" alt="discord">
 </a>&ensp;
 
@@ -157,7 +153,7 @@
 
 <h4 align="center">Give this Repository a STAR⭐</h4>
 <h5 align="center">(If you find this repository helpful)
-<br/> Thank You!!
+<br/> Thank You!!💝
 <hr/>
 </h5>
-<h4 align="center">Made by <a href="https://twitter.com/imKaustav_">Kaustav Purkayastha</a></h4>
+<h4 align="center">Made by <a href="https://twitter.com/imKaustav_">Kaustav Purkayastha</a>😉</h4>
