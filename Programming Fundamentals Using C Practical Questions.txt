@@ -25,3 +25,4 @@ LIST OF PRACTICAL QUESTIONS:
 	(i) String Concatenation, (ii) Compare two strings, (iii) Calculate the length of the strings.
 
 11. Write a C program to create a structure Student containing fields for Roll No., Name, Class, Year and Total Marks. Create 10 students and store them in a file.
+
