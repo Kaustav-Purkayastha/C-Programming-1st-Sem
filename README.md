@@ -28,13 +28,13 @@
 
 #### Q1) &ensp; Write a C program to print the sum and product of the digits of an integer number.
 - ######  [See the Solution](https://github.com/Kaustav-Purkayastha/C-Programming-1st-Sem/blob/main/Solutions/Q-01/sumproduct.c) ✅
-- ######  [See the Output](https://github.com/Kaustav-Purkayastha/C-Programming-1st-Sem/blob/main/Solutions/Q-01/sumproduct.jpg) ✅
+- ######  [See the Output](https://github.com/Kaustav-Purkayastha/C-Programming-1st-Sem/blob/main/Solutions/Q-01/sumproduct.jpg) 🖥
 <br>
 
 
 #### Q2) &ensp; Write a C program to print the reverse of an integer number.
 - ######  [See the Solution](https://github.com/Kaustav-Purkayastha/C-Programming-1st-Sem/blob/main/Solutions/Q-02/reverse_number.c) ✅
-- ######  [See the Output](https://github.com/Kaustav-Purkayastha/C-Programming-1st-Sem/blob/main/Solutions/Q-02/reverse_number.jpg) ✅
+- ######  [See the Output](https://github.com/Kaustav-Purkayastha/C-Programming-1st-Sem/blob/main/Solutions/Q-02/reverse_number.jpg) 🖥
 <br>
 
 
@@ -42,55 +42,55 @@
 #### &ensp; &ensp; &ensp; S = 1 - 2 + 3 - 4 + 5 . . . n
 
 - ######  [See the Solution](https://github.com/Kaustav-Purkayastha/C-Programming-1st-Sem/blob/main/Solutions/Q-03/sumseries.c) ✅
-- ######  [See the Output](https://github.com/Kaustav-Purkayastha/C-Programming-1st-Sem/blob/main/Solutions/Q-03/sumseries.jpg) ✅
+- ######  [See the Output](https://github.com/Kaustav-Purkayastha/C-Programming-1st-Sem/blob/main/Solutions/Q-03/sumseries.jpg) 🖥
 <br>
 
 
 #### Q4) &ensp; Write a C program to check whether a given string is palindrome or not.
 - ######  [See the Solution](https://github.com/Kaustav-Purkayastha/C-Programming-1st-Sem/blob/main/Solutions/Q-04/stringpalindrome.c) ✅
-- ######  [See the Output](https://github.com/Kaustav-Purkayastha/C-Programming-1st-Sem/blob/main/Solutions/Q-04/stringpalindrome.jpg) ✅
+- ######  [See the Output](https://github.com/Kaustav-Purkayastha/C-Programming-1st-Sem/blob/main/Solutions/Q-04/stringpalindrome.jpg) 🖥
 <br>
 
 
 #### Q5) &ensp; Write a C program to find whether a given number is prime or not. Use the same to generate the prime numbers less than 100.
 - ######  [See the Solution](https://github.com/Kaustav-Purkayastha/C-Programming-1st-Sem/blob/main/Solutions/Q-05/primecomposite.c) ✅
-- ######  [See the Output](https://github.com/Kaustav-Purkayastha/C-Programming-1st-Sem/blob/main/Solutions/Q-05/primecomposite.jpg) ✅
+- ######  [See the Output](https://github.com/Kaustav-Purkayastha/C-Programming-1st-Sem/blob/main/Solutions/Q-05/primecomposite.jpg) 🖥
 <br>
 
 
 #### Q6) &ensp; Write a C program to display Fibonacci Series: 
 #### &ensp; (i) Using Iteration
 - ######  [See the Solution](https://github.com/Kaustav-Purkayastha/C-Programming-1st-Sem/blob/main/Solutions/Q-06/fibonacci_iteration.c) ✅
-- ######  [See the Output](https://github.com/Kaustav-Purkayastha/C-Programming-1st-Sem/blob/main/Solutions/Q-06/fibonacci_iteration.jpg) ✅
+- ######  [See the Output](https://github.com/Kaustav-Purkayastha/C-Programming-1st-Sem/blob/main/Solutions/Q-06/fibonacci_iteration.jpg) 🖥
 #### &ensp; (ii) Using Recursion 
 - ######  [See the Solution](https://github.com/Kaustav-Purkayastha/C-Programming-1st-Sem/blob/main/Solutions/Q-06/fibonacci_recursion.c) ✅
-- ######  [See the Output](https://github.com/Kaustav-Purkayastha/C-Programming-1st-Sem/blob/main/Solutions/Q-06/fibonacci_recursion.jpg) ✅
+- ######  [See the Output](https://github.com/Kaustav-Purkayastha/C-Programming-1st-Sem/blob/main/Solutions/Q-06/fibonacci_recursion.jpg) 🖥
 <br>
 
 
 #### Q7) &ensp; Write a C program to calculate Factorial of a given number:
 #### &ensp; (i) Using Iteration
 - ######  [See the Solution](https://github.com/Kaustav-Purkayastha/C-Programming-1st-Sem/blob/main/Solutions/Q-07/factorial_iteration.c) ✅
-- ######  [See the Output](https://github.com/Kaustav-Purkayastha/C-Programming-1st-Sem/blob/main/Solutions/Q-07/factorial_iteration.jpg) ✅
+- ######  [See the Output](https://github.com/Kaustav-Purkayastha/C-Programming-1st-Sem/blob/main/Solutions/Q-07/factorial_iteration.jpg) 🖥
 #### &ensp; (ii) Using Recursion 
 - ######  [See the Solution](https://github.com/Kaustav-Purkayastha/C-Programming-1st-Sem/blob/main/Solutions/Q-07/factorial_recursion.c) ✅
-- ######  [See the Output](https://github.com/Kaustav-Purkayastha/C-Programming-1st-Sem/blob/main/Solutions/Q-07/factorial_recursion.jpg) ✅
+- ######  [See the Output](https://github.com/Kaustav-Purkayastha/C-Programming-1st-Sem/blob/main/Solutions/Q-07/factorial_recursion.jpg) 🖥
 <br>
 
 
 #### Q8) &ensp; Write a C program to calculate GCD of two numbers:
 #### &ensp; (i) Using Iteration
 - ######  [See the Solution](https://github.com/Kaustav-Purkayastha/C-Programming-1st-Sem/blob/main/Solutions/Q-08/gcd_iteration.c) ✅
-- ######  [See the Output](https://github.com/Kaustav-Purkayastha/C-Programming-1st-Sem/blob/main/Solutions/Q-08/gcd_iteration.jpg) ✅
+- ######  [See the Output](https://github.com/Kaustav-Purkayastha/C-Programming-1st-Sem/blob/main/Solutions/Q-08/gcd_iteration.jpg) 🖥
 #### &ensp; (ii) Using Recursion 
 - ######  [See the Solution](https://github.com/Kaustav-Purkayastha/C-Programming-1st-Sem/blob/main/Solutions/Q-08/gcd_recursion.c) ✅
-- ######  [See the Output](https://github.com/Kaustav-Purkayastha/C-Programming-1st-Sem/blob/main/Solutions/Q-08/gcd_recursion.jpg) ✅
+- ######  [See the Output](https://github.com/Kaustav-Purkayastha/C-Programming-1st-Sem/blob/main/Solutions/Q-08/gcd_recursion.jpg) 🖥
 <br>
 
 
 #### Q9) &ensp; Write a C program that swaps two numbers using pointers.
 - ######  [See the Solution](https://github.com/Kaustav-Purkayastha/C-Programming-1st-Sem/blob/main/Solutions/Q-09/swappingusingpointers.c) ✅
-- ######  [See the Output](https://github.com/Kaustav-Purkayastha/C-Programming-1st-Sem/blob/main/Solutions/Q-09/swappingusingpointers.jpg) ✅
+- ######  [See the Output](https://github.com/Kaustav-Purkayastha/C-Programming-1st-Sem/blob/main/Solutions/Q-09/swappingusingpointers.jpg) 🖥
 <br>
 
 
@@ -99,12 +99,12 @@
 #### &ensp; (ii) Compare two strings
 #### &ensp; (iii) Calculate the length of the strings.
 - ######  [See the Solution](https://github.com/Kaustav-Purkayastha/C-Programming-1st-Sem/blob/main/Solutions/Q-10/stringoperations.c) ✅
-- ######  [See the Output](https://github.com/Kaustav-Purkayastha/C-Programming-1st-Sem/blob/main/Solutions/Q-10/stringoperations1.jpg) ✅
+- ######  [See the Output](https://github.com/Kaustav-Purkayastha/C-Programming-1st-Sem/blob/main/Solutions/Q-10/stringoperations1.jpg) 🖥
 <br>
 
 #### Q11) &ensp; Write a C program to create a structure Student containing fields for Roll No., Name, Class, Year and Total Marks. Create 10 students and store them in a file.
 - ######  [See the Solution](https://github.com/Kaustav-Purkayastha/C-Programming-1st-Sem/blob/main/Solutions/Q-11/structurefile.c) ✅
-- ######  [See the Output](https://github.com/Kaustav-Purkayastha/C-Programming-1st-Sem/blob/main/Solutions/Q-11/structurefile.jpg) ✅
+- ######  [See the Output](https://github.com/Kaustav-Purkayastha/C-Programming-1st-Sem/blob/main/Solutions/Q-11/structurefile.jpg) 🖥
 <br>
 
 
