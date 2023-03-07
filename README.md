@@ -95,9 +95,9 @@
 
 
 #### Q10) &ensp; Write a C program to perform the following operations on strings: 
-#### &ensp; (i) String Concatenation
+#### &ensp; (i) String concatenation
 #### &ensp; (ii) Compare two strings
-#### &ensp; (iii) Calculate the length of the strings.
+#### &ensp; (iii) Calculate the length of the strings
 - ######  [See the Solution](https://github.com/Kaustav-Purkayastha/C-Programming-1st-Sem/blob/main/Solutions/Q-10/stringoperations.c) ✅
 - ######  [See the Output](https://github.com/Kaustav-Purkayastha/C-Programming-1st-Sem/blob/main/Solutions/Q-10/stringoperations1.jpg) 🖥
 <br>
