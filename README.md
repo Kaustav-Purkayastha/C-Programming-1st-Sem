@@ -4,7 +4,7 @@
 
 
 ### 🔥 Let\'s Connect! 👇 
-  <br>
+  <br/>
   <a href="https://twitter.com/imKaustav_">
     <img width="25px" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" />
   </a>&ensp;
@@ -29,13 +29,13 @@
 #### Q1) &ensp; Write a C program to print the sum and product of the digits of an integer number.
 - ######  [See the Solution](https://github.com/Kaustav-Purkayastha/C-Programming-1st-Sem/blob/main/Solutions/Q-01/sumproduct.c) ✅
 - ######  [See the Output](https://github.com/Kaustav-Purkayastha/C-Programming-1st-Sem/blob/main/Solutions/Q-01/sumproduct.jpg) 🖥
-<br>
+<br/>
 
 
 #### Q2) &ensp; Write a C program to print the reverse of an integer number.
 - ######  [See the Solution](https://github.com/Kaustav-Purkayastha/C-Programming-1st-Sem/blob/main/Solutions/Q-02/reverse_number.c) ✅
 - ######  [See the Output](https://github.com/Kaustav-Purkayastha/C-Programming-1st-Sem/blob/main/Solutions/Q-02/reverse_number.jpg) 🖥
-<br>
+<br/>
 
 
 #### Q3) &ensp; Write a C program to compute the sum of the first n terms of the series: 
@@ -43,19 +43,19 @@
 
 - ######  [See the Solution](https://github.com/Kaustav-Purkayastha/C-Programming-1st-Sem/blob/main/Solutions/Q-03/sumseries.c) ✅
 - ######  [See the Output](https://github.com/Kaustav-Purkayastha/C-Programming-1st-Sem/blob/main/Solutions/Q-03/sumseries.jpg) 🖥
-<br>
+<br/>
 
 
 #### Q4) &ensp; Write a C program to check whether a given string is palindrome or not.
 - ######  [See the Solution](https://github.com/Kaustav-Purkayastha/C-Programming-1st-Sem/blob/main/Solutions/Q-04/stringpalindrome.c) ✅
 - ######  [See the Output](https://github.com/Kaustav-Purkayastha/C-Programming-1st-Sem/blob/main/Solutions/Q-04/stringpalindrome.jpg) 🖥
-<br>
+<br/>
 
 
 #### Q5) &ensp; Write a C program to find whether a given number is prime or not. Use the same to generate the prime numbers less than 100.
 - ######  [See the Solution](https://github.com/Kaustav-Purkayastha/C-Programming-1st-Sem/blob/main/Solutions/Q-05/primecomposite.c) ✅
 - ######  [See the Output](https://github.com/Kaustav-Purkayastha/C-Programming-1st-Sem/blob/main/Solutions/Q-05/primecomposite.jpg) 🖥
-<br>
+<br/>
 
 
 #### Q6) &ensp; Write a C program to display Fibonacci Series: 
@@ -65,7 +65,7 @@
 #### &ensp; (ii) Using Recursion 
 - ######  [See the Solution](https://github.com/Kaustav-Purkayastha/C-Programming-1st-Sem/blob/main/Solutions/Q-06/fibonacci_recursion.c) ✅
 - ######  [See the Output](https://github.com/Kaustav-Purkayastha/C-Programming-1st-Sem/blob/main/Solutions/Q-06/fibonacci_recursion.jpg) 🖥
-<br>
+<br/>
 
 
 #### Q7) &ensp; Write a C program to calculate Factorial of a given number:
@@ -75,7 +75,7 @@
 #### &ensp; (ii) Using Recursion 
 - ######  [See the Solution](https://github.com/Kaustav-Purkayastha/C-Programming-1st-Sem/blob/main/Solutions/Q-07/factorial_recursion.c) ✅
 - ######  [See the Output](https://github.com/Kaustav-Purkayastha/C-Programming-1st-Sem/blob/main/Solutions/Q-07/factorial_recursion.jpg) 🖥
-<br>
+<br/>
 
 
 #### Q8) &ensp; Write a C program to calculate GCD of two numbers:
@@ -85,13 +85,13 @@
 #### &ensp; (ii) Using Recursion 
 - ######  [See the Solution](https://github.com/Kaustav-Purkayastha/C-Programming-1st-Sem/blob/main/Solutions/Q-08/gcd_recursion.c) ✅
 - ######  [See the Output](https://github.com/Kaustav-Purkayastha/C-Programming-1st-Sem/blob/main/Solutions/Q-08/gcd_recursion.jpg) 🖥
-<br>
+<br/>
 
 
 #### Q9) &ensp; Write a C program that swaps two numbers using pointers.
 - ######  [See the Solution](https://github.com/Kaustav-Purkayastha/C-Programming-1st-Sem/blob/main/Solutions/Q-09/swappingusingpointers.c) ✅
 - ######  [See the Output](https://github.com/Kaustav-Purkayastha/C-Programming-1st-Sem/blob/main/Solutions/Q-09/swappingusingpointers.jpg) 🖥
-<br>
+<br/>
 
 
 #### Q10) &ensp; Write a C program to perform the following operations on strings: 
@@ -100,12 +100,12 @@
 #### &ensp; (iii) Calculate the length of the strings
 - ######  [See the Solution](https://github.com/Kaustav-Purkayastha/C-Programming-1st-Sem/blob/main/Solutions/Q-10/stringoperations.c) ✅
 - ######  [See the Output](https://github.com/Kaustav-Purkayastha/C-Programming-1st-Sem/blob/main/Solutions/Q-10/stringoperations1.jpg) 🖥
-<br>
+<br/>
 
 #### Q11) &ensp; Write a C program to create a structure Student containing fields for Roll No., Name, Class, Year and Total Marks. Create 10 students and store them in a file.
 - ######  [See the Solution](https://github.com/Kaustav-Purkayastha/C-Programming-1st-Sem/blob/main/Solutions/Q-11/structurefile.c) ✅
 - ######  [See the Output](https://github.com/Kaustav-Purkayastha/C-Programming-1st-Sem/blob/main/Solutions/Q-11/structurefile.jpg) 🖥
-<br>
+<br/>
 
 
 
