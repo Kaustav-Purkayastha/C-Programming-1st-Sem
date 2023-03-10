@@ -2,6 +2,7 @@
 
 // 2. Write a C program to print the reverse of an integer number.
 
+
 #include<stdio.h>
 
 void main()
